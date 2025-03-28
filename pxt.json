@@ -8,13 +8,13 @@
         "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
         "fwd-edu-common": "github:climate-action-kits/pxt-fwd-edu/fwd-common",
         "fwd-edu-breakout": "github:climate-action-kits/pxt-fwd-edu/fwd-breakout",
-        "fwd-edu-dial": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-dial#v1.46.7",
-        "fwd-edu-led": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-led#v1.46.7",
-        "fwd-edu-line": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-line#v1.46.7",
-        "fwd-edu-moisture": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-moisture#v1.46.7",
-        "fwd-edu-solar": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-solar#v1.46.7",
-        "fwd-edu-sonar": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-sonar#v1.46.7",
-        "fwd-edu-touch": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-touch#v1.46.7"
+        "fwd-edu-dial": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-dial#v1.46.8",
+        "fwd-edu-led": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-led#v1.46.8",
+        "fwd-edu-line": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-line#v1.46.8",
+        "fwd-edu-moisture": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-moisture#v1.46.8",
+        "fwd-edu-solar": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-solar#v1.46.8",
+        "fwd-edu-sonar": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-sonar#v1.46.8",
+        "fwd-edu-touch": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-touch#v1.46.8"
     },
     "files": [
         "README.md",

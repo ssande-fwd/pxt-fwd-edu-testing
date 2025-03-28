@@ -70,12 +70,12 @@ namespace fwdSensors {
     
   }
 
-  //% fixedInstance whenUsed
-  export const dial1 = new FwdDialClient("Dial 1")
-  //% fixedInstance whenUsed
-  export const dial2 = new FwdDialClient("Dial 2")
-  //% fixedInstance whenUsed
-  export const dial3 = new FwdDialClient("Dial 2")
-  //% fixedInstance whenUsed
-  export const dial4 = new FwdDialClient("Dial 4")
+  //% fixedInstance whenUsed block="Dial 1"
+  export const dial1 = new FwdDialClient("dial1")
+  //% fixedInstance whenUsed block="Dial 2"
+  export const dial2 = new FwdDialClient("dial2")
+  //% fixedInstance whenUsed block="Dial 3"
+  export const dial3 = new FwdDialClient("dial3")
+  //% fixedInstance whenUsed block="Dial 4"
+  export const dial4 = new FwdDialClient("dial4")
 }

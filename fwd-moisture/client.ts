@@ -43,12 +43,12 @@ namespace fwdSensors {
     }
   }
 
-  //% fixedInstance whenUsed
-  export const soilMoisture1 = new FwdSoilMoistureClient("soil moisture 1");
-  //% fixedInstance whenUsed
-  export const soilMoisture2 = new FwdSoilMoistureClient("Soil Moisture 2");
-  //% fixedInstance whenUsed
-  export const soilMoisture3 = new FwdSoilMoistureClient("Soil Moisture 3");
-  //% fixedInstance whenUsed
-  export const soilMoisture4 = new FwdSoilMoistureClient("Soil Moisture 4");
+  //% fixedInstance whenUsed block="Soil Moisture 1"
+  export const soilMoisture1 = new FwdSoilMoistureClient("soilMoisture1");
+  //% fixedInstance whenUsed block="Soil Moisture 2"
+  export const soilMoisture2 = new FwdSoilMoistureClient("soilMoisture2");
+  //% fixedInstance whenUsed block="Soil Moisture 3"
+  export const soilMoisture3 = new FwdSoilMoistureClient("soilMoisture3");
+  //% fixedInstance whenUsed block="Soil Moisture 4"
+  export const soilMoisture4 = new FwdSoilMoistureClient("soilMoisture4");
 }
