@@ -9,7 +9,7 @@
         "fwd-edu-common": "github:climate-action-kits/pxt-fwd-edu/fwd-common",
         "fwd-edu-breakout": "github:climate-action-kits/pxt-fwd-edu/fwd-breakout",
         "fwd-edu-dial": "github:climate-action-kits/pxt-fwd-edu/fwd-dial",
-        "fwd-edu-led": "github:climate-action-kits/pxt-fwd-edu/fwd-led",
+        "fwd-edu-led": "github:ssande-fwd/pxt-fwd-edu-testing/fwd-led#v1.46.5",
         "fwd-edu-line": "github:climate-action-kits/pxt-fwd-edu/fwd-line",
         "fwd-edu-moisture": "github:climate-action-kits/pxt-fwd-edu/fwd-moisture",
         "fwd-edu-solar": "github:climate-action-kits/pxt-fwd-edu/fwd-solar",
