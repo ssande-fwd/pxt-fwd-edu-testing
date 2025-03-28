@@ -110,5 +110,11 @@ namespace fwdSensors {
   }
 
   //% fixedInstance whenUsed
-  export const ledRing = new FwdLEDClient("LED ring")
+  export const ledRing1 = new FwdLEDClient("LED Ring 1")
+  //% fixedInstance whenUsed
+  export const ledRing2 = new FwdLEDClient("LED Ring 2")
+  //% fixedInstance whenUsed
+  export const ledRing3 = new FwdLEDClient("LED Ring 3")
+  //% fixedInstance whenUsed
+  export const ledRing4 = new FwdLEDClient("LED Ring 4")
 }
