@@ -45,4 +45,10 @@ namespace fwdSensors {
 
   //% fixedInstance whenUsed
   export const soilMoisture1 = new FwdSoilMoistureClient("soil moisture 1");
+  //% fixedInstance whenUsed
+  export const soilMoisture2 = new FwdSoilMoistureClient("Soil Moisture 2");
+  //% fixedInstance whenUsed
+  export const soilMoisture3 = new FwdSoilMoistureClient("Soil Moisture 3");
+  //% fixedInstance whenUsed
+  export const soilMoisture4 = new FwdSoilMoistureClient("Soil Moisture 4");
 }

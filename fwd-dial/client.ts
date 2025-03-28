@@ -71,5 +71,11 @@ namespace fwdSensors {
   }
 
   //% fixedInstance whenUsed weight=1 block="dial1"
-  export const dial1 = new FwdDialClient("dial1")
+  export const dial1 = new FwdDialClient("Dial 1")
+  //% fixedInstance whenUsed weight=2 block="dial2"
+  export const dial2 = new FwdDialClient("Dial 2")
+  //% fixedInstance whenUsed weight=3 block="dial3"
+  export const dial3 = new FwdDialClient("Dial 2")
+  //% fixedInstance whenUsed weight=4 block="dial4"
+  export const dial4 = new FwdDialClient("Dial 4")
 }
